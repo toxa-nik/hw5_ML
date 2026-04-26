@@ -1,4 +1,12 @@
 /energydata_complete_v1.csv
-"mlruns/" 
-"mlflow.db" 
-"datasets/" 
+mlruns/
+mlflow.db
+datasets/
+__pycache__/
+*.py[cod]
+*$py.class
+*.db
+*.sqlite
+*.parquet
+data/
+.ipynb_checkpoints/
